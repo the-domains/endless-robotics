@@ -1,4 +1,3 @@
-layout_spectrum: 0.02987995813600719
 typography_spectrum: 0.8916354973334819
 color:
   brandStrength: 0.13461986859329045
@@ -11,4 +10,6 @@ color:
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
+layout_spectrum: 0.02987995813600719
 name: endless robotics
+description: Before AI does us all
