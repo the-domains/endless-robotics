@@ -1,3 +1,4 @@
+layout_spectrum: 0.02987995813600719
 typography_spectrum: 0.8916354973334819
 color:
   brandStrength: 0.13461986859329045
@@ -5,12 +6,9 @@ color:
   saturation: 0.05656527052633464
   rhythmicContrast: 0.9424805464223027
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
-layout_spectrum: 0.02987995813600719
-name: General Technology
-title: Now on the GRID!
-description: Before AI does with us all
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: endless robotics
