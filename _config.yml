@@ -1,0 +1,14 @@
+layout_spectrum: 0.02987995813600719
+typography_spectrum: 0.8916354973334819
+color:
+  brandStrength: 0.13461986859329045
+  lightness: 0.3183662137016654
+  saturation: 0.05656527052633464
+  rhythmicContrast: 0.9424805464223027
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+name: endless robotics
