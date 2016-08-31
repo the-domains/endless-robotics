@@ -1,14 +1,16 @@
 layout_spectrum: 0.02987995813600719
-typography_spectrum: 0.8916354973334819
+typography_spectrum: 0.2259633638896048
 color:
-  brandStrength: 0.13461986859329045
-  lightness: 0.3183662137016654
-  saturation: 0.05656527052633464
-  rhythmicContrast: 0.9424805464223027
+  brandStrength: 0.8866903237067163
+  lightness: 0.11555668665096164
+  saturation: 0.6971720738802105
+  rhythmicContrast: 0.8051968449726701
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-name: endless robotics
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: General Technology
+title: Now on the GRID!
+description: Before AI does with us all
